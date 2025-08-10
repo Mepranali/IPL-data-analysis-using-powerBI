@@ -1,6 +1,6 @@
 # 🏏 IPL Data Analysis (2021–2023) - Power BI Dashboard
 
-![IPL Dashboard Preview](Screenshot/Dashboard_main.png)
+![IPL Dashboard Preview](screenshot/Dashboard_main.png)
 
 ## 📌 Overview
 This project is an interactive **Power BI dashboard** analyzing the **Indian Premier League (IPL)** seasons from **2021 to 2023**.  
